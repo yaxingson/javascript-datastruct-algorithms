@@ -1,0 +1,16 @@
+{
+  "name": "javascript-datastruct-algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest --run"
+  },
+  "keywords": [],
+  "author": "yaxingson <3228891558@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.7.2",
+    "vitest": "^2.1.8"
+  }
+}
