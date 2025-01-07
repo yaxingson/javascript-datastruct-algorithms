@@ -46,13 +46,13 @@ ENDADT
 
 ```
 
-#### [数组]()
+#### [数组](./datastruct/list/array/README.zh-CN.md)
 
-#### [链表]()
+#### [链表](./datastruct/list/linkedlist/README.zh-CN.md)
 
-#### [栈]()
+#### [栈](./datastruct/list/stack/README.zh-CN.md)
 
-#### [队列]()
+#### [队列](./datastruct/list/queue/README.zh-CN.md)
 
 ### 哈希表
 
