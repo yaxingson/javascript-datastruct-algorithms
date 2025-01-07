@@ -1,4 +1,4 @@
-import { List } from './adt'
+import { List } from '../adt'
 
 export class ArrayList<T> extends List<T> {
   static readonly MAX_CAP = 2**32 - 1
