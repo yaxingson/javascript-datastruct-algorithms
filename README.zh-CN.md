@@ -31,19 +31,31 @@
 
 数据类型: 指一组性质相同的值的集合以及定义在此集合上的一组操作
 
+- 原子类型
+- 结构类型
+
 > 抽象数据类型（Abstract Data Type, ADT）：指一个**数学模型**及定义在该模型上的一组**操作**
 
 ### 线性表
 
 用于存储一组**有序的**数据元素。线性表中的元素具有**线性关系**，即每个元素都有一个唯一的前驱和后继（除了第一个和最后一个元素）
 
+> 空表
+
 ```txt
 ADT List
 DATA
-  {e1, e2, ..., en}
+  {e1, e2, ..., ei-1, ei, ei+1, ..., en}
 OPERATION
-
-
+  Init()
+  IsEmpty()
+  Clear()
+  GetElem()
+  LocateElem()
+  Insert()
+  Remove()
+  Length()
+  
 ENDADT
 
 ```
