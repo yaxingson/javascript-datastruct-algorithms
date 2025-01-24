@@ -2,6 +2,7 @@ import { List } from '../adt'
 
 export class ArrayList<T> extends List<T> {
   static readonly MAX_CAP = 2**32 - 1
+  private cap = 30
   private size = 0
   
   append(elem: T): void {
@@ -23,5 +24,4 @@ export class ArrayList<T> extends List<T> {
   count(): number {
     throw new Error('Method not implemented.')
   }
-
 }
