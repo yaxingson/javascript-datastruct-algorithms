@@ -48,7 +48,7 @@ ENDADT
 
 ```
 
-#### [字符串]()
+#### [字符串](./datastruct/list/string/README.zh-CN.md)
 
 #### [数组](./datastruct/list/array/README.zh-CN.md)
 
