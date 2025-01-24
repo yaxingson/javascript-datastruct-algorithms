@@ -48,6 +48,8 @@ ENDADT
 
 ```
 
+#### [字符串]()
+
 #### [数组](./datastruct/list/array/README.zh-CN.md)
 
 #### [链表](./datastruct/list/linkedlist/README.zh-CN.md)
